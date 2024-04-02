@@ -1,7 +1,9 @@
 
 # DoorDash Payment System Analysis Report
 
+<div style="text-align: center;">
 <img src="https://lh7-us.googleusercontent.com/ziZbvdZQErvyVnPbqk7Nv9kZ7gIBFg56XbVKZ0PD_pQuOUUVSBZpbdw2tgr2MU1ZBC-hUIZuzvsXg9DPyE1BE5xDT_pLJBONYBjhrkVtOI08cxTblamw_wdQHNBYBteNyIRqcjdZK-hehTc0shImBpc" width="400" height="200" />
+</div>
 ## 🚀 Overview
 
 This README summarizes the comprehensive analysis of DoorDash's payment system, highlighting key frameworks, security considerations, and recommendations for maintaining a secure and efficient payment infrastructure. Our goal is to ensure DoorDash's system is robust against security threats while offering a seamless user experience.

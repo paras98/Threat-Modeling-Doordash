@@ -54,7 +54,11 @@ A high percentage of successful audits would suggest that DoorDash is successful
 ### STRIDE 
 This framework was developed by two engineers from Microsoft in the 1990’s. The six components of STRIDE framework are spoofing, tampering, repudiation, information disclosure, denial of service, and elevation of privilege. [5]
 Payment systems such as one DoorDash are vulnerable to multiple attacks which are well documented based on past incidents on payment systems. Attackers are always finding ways to attack these systems since the benefits of such an attack are huge for an attacker. An attacker who successfully manages to exploit a component within the network that handles these transactions, the transfer of data from the Point of Sale to the bank databases, or any component that is involved in the payment would have a huge benefit-to-risk ratio.
+
+
 <img src="https://lh7-us.googleusercontent.com/xQSyNGdpOmxNjPtzNbsDWw7USpmEbvI787xoD09JVz0mE_5gmjiNKcATqN1FVA4aZLpw9C8ic_3R4TZP9QRNFLPwuV1LmZBJXxNA-YOKvYsm3ch9EKsMjQUY5ty8PFAx0slihFfZrQK_pLZyJSbQv2g" width="300" height="300" />
+
+
 
 **Advantages:**
 - With the STRIDE framework, the focus is more on the risks associated with any system. Payment systems require careful analysis of all kinds of potential risks associated with them through various components in the entire payment flow starting from the customer’s device to the server and the payment gateways. [13]
@@ -69,7 +73,11 @@ If the threats from external devices and internal systems are minimal in the rep
 ### PASTA
 It is a risk-centric threat modeling, PASTA framework provides a comprehensive, risk-centric approach to identifying and managing risks associated with the payment system, it can help DoorDash ensure the security and efficiency of the payment system, which is crucial to its success.
 DoorDash is very careful about protecting its payment system. If any security lapse occurs, it could lead to a lot of money being lost and DoorDash's reputation being damaged. So, DoorDash has put together a very strict security system to deal with any potential problems.
+
+
 <img src="https://lh7-us.googleusercontent.com/5vxb_W6_w2slh9iuoqBLYo_XKtWJhnHtjDeZWAPyzlG3spnE_PY9DCCxQlRpkIM57T8WcEI69suBdOptqxmBQ7882XQwamtxXBJZUUEovW5Q6MecNZRcP25OfIdNfyLeZwUmPtNhmHZ2A4oKhaLnng8" width="400" height="300" />
+
+
 **PASTA Implementation**
 
 - **Business Objective:** The purpose of this plan is to protect DoorDash's payment system from any possible security risks, and make sure our company is following industry standards and regulations.
@@ -88,7 +96,11 @@ For a company to achieve success, it is crucial to avoid any security breaches, 
 
 ### OCTAVE FORTE
 OCTAVE FORTE is a comprehensive risk management framework that can be used to identify, assess, and prioritize risks related to DoorDash's payment system. It is crucial to ensure the security of the payment system to prevent data breaches, fraudulent transactions, data corruption, and various other cyberattacks. This framework can help identify the several security risks to the system and potential mitigation measures. It can ultimately help DoorDash in safeguarding its payment system and ensuring the confidentiality, integrity, and availability of its customers' sensitive information.
+
+
 <img src="https://lh7-us.googleusercontent.com/oBnjhTc5Rb_-HXRLr76BcdshnbQ9fm3WZSHOsh8umGevsUZkINyRKQDsZPx7Qa8Be7Dit2e5G5Q_RuqKS2G6WGqtTtiu-2fMtCIUEk4oeswZWNVqTEZzYKYRfb2jl3ru52kzRGA-n7PYr8afn08K66Y" width="400" height="200" />
+
+
 **Details**
 
 1. Establish Risk Governance and Appetite:  
